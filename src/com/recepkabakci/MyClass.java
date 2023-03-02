@@ -1,4 +1,4 @@
-package com.bilgeadam;
+package com.recepkabakci;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
